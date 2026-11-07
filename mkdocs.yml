@@ -139,6 +139,7 @@ nav:
       - Установка ADB на компьютер: start/adb.md
       - 1. Получение root:
           - Большинство моделей — подмена DNS: start/root.md
+          - Лайт 1 — проверенный кейс factory/OTA/root: start/lite1-root-case-20261027.md
           - Лайт 2 (Plum) — сертификат из factory: start/retail-ca.md
           - Мини 3 (Bergamot) — сертификат и маркеры: start/retail-ca-mini3.md
           - Станции на Android — AliceBridge: start/root-android.md
